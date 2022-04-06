@@ -1,1 +1,1 @@
-# VGG16_Classifikasi_Sampah
+# VGG16_Classifikasi_Sampah_plastik
